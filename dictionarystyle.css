@@ -1,0 +1,62 @@
+
+* {
+    padding: 20px;
+    border: 8-px lavenderblush;
+    margin: 5px;
+    background-color: lavenderblush;
+    
+    
+}
+
+h1 {
+    word-spacing: 0.1em;
+    text-transform: uppercase;
+    font-family:'Taviraj' "Time New Roman", serif;
+    color: darkblue;
+    font-size: 40px;
+    padding-top: 75px;
+    text-align: left;
+}
+
+h2{
+    word-spacing: 0.1em;
+    font-family:'Taviraj', "Time New Roman", serif;
+    color: cadetblue;
+    font-size: 30px;
+    text-align: left; 
+}
+
+h3{
+    font-family:'Libre Baskerville', "Times New Roman", serif;
+    text-transform: uppercase;
+    color: cadetblue;
+    font-size: 22px;
+    text-align: left; 
+    text-align: center;
+}
+
+p{
+    font-family: monospace;
+    background-color: khaki;
+    width: 100%;
+    text-align:center;
+}
+
+a{
+    font-family: monospace;
+    padding-top: 1px;
+    background: pink;
+    text-align:center;
+}
+
+#first{
+    background: none;
+}
+
+.center {
+    margin: auto;
+    width: 75%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
