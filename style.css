@@ -9,3 +9,28 @@
 .btn{
     background-color: darkgreen;
 }
+
+#homepagejumbotron:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url(lumber.jpg);
+    background-size: cover;
+    opacity: 0.25;
+    z-index: -1;
+}
+
+#homepagejumbotron{
+    position: relative;
+    background-color: transparent;
+}
+
+.display-3{
+    font-family: 'Arimo', sans-serif;
+    color: black;
+}
+
